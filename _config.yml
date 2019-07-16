@@ -7,6 +7,7 @@ description: "Shared History of Buildings and Landscapes"
 # Color settings (hex-codes without the leading hash-tag)
 color:
   primary-dark: '#000000'
+  primary-light: '#FFFFFF'
   #links: '#981e32'
   links: '#fff'
 
