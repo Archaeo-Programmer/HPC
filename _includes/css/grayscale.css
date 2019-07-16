@@ -139,7 +139,7 @@ a:focus {
     text-align: center;
     color: #fff;
     background: url(/HPC/img/campus-model-logo.jpg) no-repeat bottom center scroll;
-    background-color: {{ site.color.primary-dark }};
+    background-color: {background-color:rgba(192,192,192,0.3);};
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
@@ -259,7 +259,7 @@ a:focus {
     padding: 50px 0;
     color: #fff;
     background: url(/HPC/img/buildings_114_extralarge.jpg) no-repeat center center scroll;
-    background-color: {{ site.color.primary-dark }};
+    background-color: {background-color:rgba(192,192,192,0.3);};
     border-top: 1px solid;
     border-top-color: rgba(255,255,255,.3);
     border-bottom: 1px solid;
