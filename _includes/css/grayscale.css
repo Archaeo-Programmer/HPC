@@ -257,9 +257,9 @@ a:focus {
 .download-section {
     width: 100%;
     padding: 50px 0;
-    color: #fff;
-    background: url(/HPC/img/buildings_114_extralarge.jpg) no-repeat center center scroll;
+    color: #000;
     background-color: {background-color:rgba(192,192,192,0.3);};
+    background: url(/HPC/img/buildings_114_extralarge.jpg) no-repeat center center scroll;
     border-top: 1px solid;
     border-top-color: rgba(255,255,255,.3);
     border-bottom: 1px solid;
