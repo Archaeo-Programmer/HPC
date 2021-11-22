@@ -1,10 +1,3 @@
-Grayscale Jekyll theme testing for project
-=========================
+Washington State University Buildings and Landscapes
 
-Jekyll theme based on [Grayscale bootstrap theme ](http://ironsummitmedia.github.io/startbootstrap-grayscale/)
-
-## Demo
-View this jekyll theme in action for this project -- look [here](https://alexmerrill.github.io/veterans)
-
-=========
-For more details, read the [documentation](http://jekyllrb.com/)
+This will be the new home page for the [Washington State University Buildings and Landscapes](https://cdsc.libraries.wsu.edu/scalar/wsu-buildings-landscapes/index) Scalar web page/book.
